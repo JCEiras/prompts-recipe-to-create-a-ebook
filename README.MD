@@ -1,92 +1,74 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+## 📒 Descrição
+E-book gastronômico intitulado “COZINHA ÁGIL: DELÍCIAS SAUDÁVEIS PARA O DIA A DIA”, com receitas rápidas e práticas, voltado para as pessoas que querem se alimentar bem, de forma saudável, mas que não dispõem de tanto tempo para cozinhar.
 
+## 🤖 Tecnologias Utilizadas
+•	IA Generativa FREEPIK https://br.freepik.com/ - imagens
+•	IA Generativa LEONARDO.IA https://app.leonardo.ai/image-generation - imagens
+•	IA Generativa EBOOKMAKER - sumário 
+•	IA Generativa CHAT META AI LLAMA 3.2 (WHATSAPP) – textos de composição do e-book
+•	POWERPOINT – Diagramação, montagem e apresentação
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+## 🧐 Processo de Criação
+Procurei na web opções de sites que criassem e-books, para iniciar meu trabalho e obter algumas ideias. O EBOOKMAKER foi uma das primeiras opções indicadas e resolvi testá-lo. Ele sugeriu a opção de um e-book gastronômico, e embasado nas ideias citadas por mim (“Criar um e-book de gastronomia com receitas fáceis, rápidas, saudáveis e poucos ingredientes, para quem possui uma rotina diária agitada, mas não abre mão de comer com qualidade e segurança.”), apresentou diversas opções de títulos, sendo “COZINHA ÁGIL: DELÍCIAS SAUDÁVEIS PARA O DIA A DIA” a escolhida. Após isso, o site gerou uma prévia gratuita do e-book, tendo o sumário divulgado.
+Assim, indiquei ao CHAT META AI LLAMA 3.2 (WHATSAPP) que gerasse todo o texto do e-book, a partir deste sumário:
 
--------
+“Fazer os textos de um e-book conforme este sumário:
 
+Cozinha Ágil: Delícias Saudáveis para o Dia a Dia
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+Sumário
+Capítulo 1: Saladas Rápidas e Nutritivas
 
-# Projeto EBOOK Gerado por I.A.s
+1.1 Salada de Quinoa com Legumes Grelhados
 
+1.2 Salada de Grão-de-Bico com Abacate
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+1.3 Salada de Espinafre com Frutas e Nozes
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Capítulo 2: Pratos Principais em Menos de 30 Minutos
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+2.1 Frango ao Limão com Aspargos
 
-## 💻 Tecnologias utilizadas no projeto
+2.2 Tofu Grelhado com Molho de Amendoim
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+2.3 Macarrão Integral com Molho de Tomate e Manjericão
 
-## 🧠 Prompts
+Capítulo 3: Lanches Saudáveis para o Dia a Dia
 
+3.1 Barrinhas de Cereais Caseiras
 
-ChatGPT：
+3.2 Hummus de Beterraba com Palitos de Cenoura
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+3.3 Wraps de Alface com Frango e Abacate
 
+Capítulo 4: Receitas de Café da Manhã Energéticas
 
-Midjourney：
+4.1 Smoothie Verde Refrescante
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+4.2 Overnight Oats com Frutas Vermelhas
 
-## ✨ Features
+4.3 Panquecas de Aveia e Banana
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+Capítulo 5: Sobremesas Saudáveis e Saborosas
 
-## 📚 Materiais
+5.1 Mousse de Chocolate com Abacate
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+5.2 Bolo de Cenoura Integral com Cobertura de Iogurte
 
-## 🛠️ Instruções de execução
+5.3 Sorvete de Banana e Frutas Tropicais
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Capítulo 6: Dicas e Técnicas para Cozinhar com Agilidade
 
-## 👨‍💻 Expert
+6.1 Técnicas de Preparo Rápido
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+6.2 Sugestões de Substituições Saudáveis
 
----
+6.3 Ideias Criativas para Aproveitar Sobras”
+O CHAT META AI LLAMA 3.2 (WHATSAPP) desenvolveu toda a parte textual do e-book de maneira correta e coesa.
+Com o texto elaborado, realizei a montagem das estruturas do e-book no POWERPOINT, conforme instruções das aulas. Produzi uma identidade visual ao projeto, em especial na divisão dos capítulos, com a inserção de imagens criadas via FREEPIK e LEONARDO.AI que representassem o universo culinário e trouxessem a sensação de saúde, bem-estar, conforto, comprometimento e criatividade, bem como a coloração verde em todo o material, que remete ao salutar, orgânico, natural e fresco. As imagens contidas ao longo dos capítulos ilustram algumas das receitas ali explicadas e também são advindas do FREEPIK e LEONARDO.AI.
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🚀 Resultados
+O e-book atendeu às expectativas, sendo um material sucinto, objetivo e de fácil entendimento. Cumpriu a necessidade de seu público de apresentar-se de forma prática, assim como as receitas ali compreendidas.
+
+## 💭 Reflexão
+Ambas as IAs, tanto de imagens quanto de elaboração textual demonstraram grande desenvoltura. Imaginei que seria muito mais complicado, contudo me surpreendi positivamente com a capacidade de criação, principalmente com relação a produção textual a partir de um sumário gerado por outra IA.
