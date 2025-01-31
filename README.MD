@@ -65,7 +65,7 @@ Capítulo 6: Dicas e Técnicas para Cozinhar com Agilidade
 
 6.3 Ideias Criativas para Aproveitar Sobras”
 O CHAT META AI LLAMA 3.2 (WHATSAPP) desenvolveu toda a parte textual do e-book de maneira correta e coesa.
-Com o texto elaborado, realizei a montagem das estruturas do e-book no POWERPOINT, conforme instruções das aulas. Produzi uma identidade visual ao projeto, em especial na divisão dos capítulos, com a inserção de imagens criadas via FREEPIK e LEONARDO.AI que representassem o universo culinário e trouxessem a sensação de saúde, bem-estar, conforto, comprometimento e criatividade, bem como a coloração verde em todo o material, que remete ao salutar, orgânico, natural e fresco. As imagens contidas ao longo dos capítulos ilustram algumas das receitas ali explicadas e também são advindas do FREEPIK e LEONARDO.AI.
+Com o texto elaborado, realizei a montagem das estruturas do e-book no POWERPOINT, conforme instruções das aulas do curso IA Generativa com Microsoft Copilot (DIO). Produzi uma identidade visual ao projeto, em especial na divisão dos capítulos, com a inserção de imagens criadas via FREEPIK e LEONARDO.AI que representassem o universo culinário e trouxessem a sensação de saúde, bem-estar, conforto, comprometimento e criatividade, bem como a coloração verde em todo o material, que remete ao salutar, orgânico, natural e fresco. As imagens contidas ao longo dos capítulos ilustram algumas das receitas ali explicadas e também são advindas do FREEPIK e LEONARDO.AI.
 
 ## 🚀 Resultados
 O e-book atendeu às expectativas, sendo um material sucinto, objetivo e de fácil entendimento. Cumpriu a necessidade de seu público de apresentar-se de forma prática, assim como as receitas ali compreendidas.
